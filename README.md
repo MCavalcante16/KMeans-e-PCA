@@ -1,4 +1,4 @@
-# Trabalho 4 - K-means, PCA, Árvores de Decisão
+# K-means, PCA, Árvores de Decisão
 
 ## Implementação e Relatório
 
