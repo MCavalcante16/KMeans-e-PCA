@@ -15,12 +15,6 @@
         * a. Reporte quanto de variância foi preservado
         * b. Plote cada ponto do conjunto transformado em um gráfico de dispersão 2d  atribuindo uma cor para cada uma das classes (3 classes no total).
 
-3. Árvores de decisão
-    * Implemente a árvore de decisão usando o coeficiente de Gini como mostrado em sala
-    * Reporte o erro de classificação para o k-fold com k=5
-        * a. Pode usar o k-fold que foi implementado em atividades passadas ou pode usar pronto do scikit-learn
-        * b. Erro de classificação pode usar pronto do scikit-learn também
-
 ## Conjunto de dados
 
 Carregar trab4.data
